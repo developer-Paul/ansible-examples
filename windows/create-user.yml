@@ -6,5 +6,5 @@
     - name: Add User
       win_user:
         name: ansible
-        password: "@ns1bl3"
+        password: "flag{N0t_t0t@l1y_1n\/1s1bl3}"
         state: present
